@@ -11,10 +11,12 @@
 
 body{
    
-   background: rgb(215, 248, 255);
-
+  
+    background: rgb(223, 241, 253);
     
     font-size: 24px;
+
+   
     
     
 }
@@ -36,7 +38,11 @@ body{
     flex-wrap: wrap;
     margin-top: 20px;
     margin-left: 5%;
+
+   
 }
+
+
 
 .container3{
     display: none;
