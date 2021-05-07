@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Architects Daughter";
+}
+
+body{
+   
+    background: linear-gradient(to right, #f374ff, #4df2fd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+    font-size: 24px;
+    
+    
+}
+
+.main-container{
+    width: 95%;
+    margin:auto;
+}
+
+.container1{
+    margin-left: 5%;
+}
+
+.container2{
+
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 5%;
+}
