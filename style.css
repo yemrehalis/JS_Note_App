@@ -22,10 +22,11 @@ body{
 .main-container{
     width: 95%;
     margin:auto;
+    margin-top:5%;
 }
 
 .container1{
-    margin-left: 5%;
+    margin-left: 2%;
 }
 
 .container2{
@@ -38,14 +39,14 @@ body{
 }
 
 .container3{
-    /* display: none; */
+    display: none;
     position:absolute;
     top: 26%;
     left: 40%;
 }
 
 textarea{
-    box-shadow: 3px 5px 10px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 10px 15px 20px 0px rgba(0, 0, 0, 0.55);
     outline: none;
     border:none;
     width: 275px;
