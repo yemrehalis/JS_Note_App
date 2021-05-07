@@ -11,7 +11,7 @@
 
 body{
    
-    background: linear-gradient(to right, #f374ff, #4df2fd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   background: rgb(215, 248, 255);
 
     
     font-size: 24px;
@@ -36,3 +36,38 @@ body{
     margin-top: 20px;
     margin-left: 5%;
 }
+
+.container3{
+    /* display: none; */
+    position:absolute;
+    top: 26%;
+    left: 40%;
+}
+
+textarea{
+    box-shadow: 3px 5px 10px 0px rgba(0, 0, 0, 0.25);
+    outline: none;
+    border:none;
+    width: 275px;
+    height: 275px;
+    padding: 40px 25px 25px 25px;
+
+}
+svg{
+    color:gray;
+}
+
+#check-icon{
+    position: absolute;
+    right: 17%;
+    top: 4%;
+
+}
+
+#x-icon{
+    position: absolute;
+    right: 5%;
+    top: 4%;
+
+}
+
